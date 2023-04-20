@@ -1,2 +1,2 @@
 # mi-blog
-Página creada en la clase deprogramación
+Página creada en la clase de programación
